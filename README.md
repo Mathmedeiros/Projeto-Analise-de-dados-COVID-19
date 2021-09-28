@@ -9,7 +9,7 @@ Avaliando o panorama mundial da COVID-19
 
 COVID-19 é uma doença infecciosa causada pelo recém-descoberto coronavírus. O vírus apareceu pela primeira vez em Dezembro de 2019 na China, e até o momento em que escrevo este texto em 30/08/2021, o número de casos registrados passa de 216 milhões e o total de mortes vai além dos 4,5 milhões de pessoas em todo o mundo, de acordo com o site [Our World in Data](https://ourworldindata.org/).
 
-Com o intuito de colocar ainda mais em prática meus conhecimentos e desenvolvimento em Data Science irei realizar uma análise dos dados públicos da doença registrados no Brasil e no mundo. E a partir desta análise tentarei levantar teorias e conclusões sobre o panorama atual do vírus no país.
+Com o intuito de colocar ainda mais em prática meus conhecimentos e desenvolvimento em Data Science irei realizar uma análise dos dados públicos da doença registrados no Brasil e no mundo. E a partir desta análise tentarei levantar teorias e conclusões sobre o panorama atual da pandemia.
 
 **Links:**
 
